@@ -138,13 +138,13 @@ def get_key():
 ```
 Obtaining the next results:
 
-Using WASD:
+Using WASD:  
 <img width="322" alt="libre" src="https://github.com/user-attachments/assets/e22717bc-f985-444e-8a45-1d243561caa6" />
 
-Square
+Square  
 <img width="317" alt="cuadrado" src="https://github.com/user-attachments/assets/9cda7364-c34d-4207-8cca-4fe1f94ed845" />
 
-Triangle
+Triangle  
 <img width="304" alt="triangulo" src="https://github.com/user-attachments/assets/c35fb0a8-82d2-41d7-b4dd-60e6c8dc7837" />
 
 Lab 2: Advanced Controllers
@@ -161,12 +161,15 @@ For this final part of the lab, the instructions were as follows:
 * Report the results in Markdown.
 
 Proportional Control (P)
+![image](https://github.com/user-attachments/assets/8625e354-4896-4642-9250-eae51025ea32)
 
 
 Proportional integral control (PI)
+![image](https://github.com/user-attachments/assets/d5cf23d1-5bf4-4f4a-acff-fc0532921049)
 
 
 Proportional integral derivative control (PID)
+![image](https://github.com/user-attachments/assets/21742f9c-6a32-48a7-b5b4-e5789b78cb80)
 
 
 In Plot Juggler, when I compared the performance of the different controllers (P, PI, and PID), I observed the changes in the x and y positions, as well as the linear velocity, over time.
